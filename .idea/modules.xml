@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/adapters/exchange/clean-arch-starter.adapters.exchange.main.iml" filepath="$PROJECT_DIR$/.idea/modules/adapters/exchange/clean-arch-starter.adapters.exchange.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/adapters/exchange/clean-arch-starter.adapters.exchange.test.iml" filepath="$PROJECT_DIR$/.idea/modules/adapters/exchange/clean-arch-starter.adapters.exchange.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/adapters/clean-arch-starter.adapters.main.iml" filepath="$PROJECT_DIR$/.idea/modules/adapters/clean-arch-starter.adapters.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/adapters/clean-arch-starter.adapters.test.iml" filepath="$PROJECT_DIR$/.idea/modules/adapters/clean-arch-starter.adapters.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/clean-arch-starter.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/clean-arch-starter.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/clean-arch-starter.app.test.iml" filepath="$PROJECT_DIR$/.idea/modules/app/clean-arch-starter.app.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/clean-arch-starter.core.main.iml" filepath="$PROJECT_DIR$/.idea/modules/core/clean-arch-starter.core.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/clean-arch-starter.core.test.iml" filepath="$PROJECT_DIR$/.idea/modules/core/clean-arch-starter.core.test.iml" />
+    </modules>
+  </component>
+</project>
